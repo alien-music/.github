@@ -6,13 +6,13 @@
     <h1 align="center">alien-music</h1>
 </p>
 <p align="center">
-    <em>Organization created for discord bot alienMusic.</em><br>
-    <em>Bot is private so nothing much here</em>
+    <em>Organizacja stworzona dla bota alienMusic</em><br>
+    <em>Wszystkie repozytoria są prywatne, zbyt dużo tutaj nie zobaczysz</em>
 </p>
 
-## 📍 Important links
+## 📍 Ważne linki
 
-* [website](https://alienmusic.app)
-* [discord](https://dc.alienmusic.app)
-* ~~[docs](https://docs.alienmusic.app)~~
-* ~~[developer docs](https://api.docs.alienmusic.app)~~
+* [strona www](https://alienmusic.app)
+* [serwer discord](https://dc.alienmusic.app)
+* ~~[dokumentacja](https://docs.alienmusic.app)~~
+* ~~[dokumentacja api](https://api.docs.alienmusic.app)~~
